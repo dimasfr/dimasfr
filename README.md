@@ -1,23 +1,42 @@
-<h1 align="center">Hi 👋, I'm Dimas Fajar Ramadhan</h1>
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+<h1 align="center">Hi there, I'm Dimas 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dimasfr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  🌐 Portfolio: <a href="https://dimasfr.github.io">dimasfr.github.io</a> &nbsp;|&nbsp;
-  📫 Email: <a href="mailto:dimasfr918@gmail.com">dimasfr918@gmail.com</a>
+  I'm a Full-Stack Developer who enjoys building scalable web applications and turning ideas into reliable products.
+  My primary focus is on backend development with Node.js and NestJS, while also creating modern, responsive user
+  interfaces with Vue.js and React.
 </p>
 
-<h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/dimasfr" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+  I'm currently exploring software architecture, cloud deployment, and building personal projects that emphasize
+  clean code, maintainability, and user experience.
 </p>
 
-<h3 align="center">Languages and Tools</h3>
+## 🚀 Featured Projects
+
+### 🎲 D&D Virtual Tabletop
+
+A modern browser-based virtual tabletop for Dungeons & Dragons, featuring campaign management, interactive battle maps, character sheets, dice rolling, and real-time multiplayer support.
+
+### 🛒 E-Commerce Platform
+
+A full-stack e-commerce application built with NestJS, Nuxt, and MySQL, integrated with online payments, shipping services, authentication, and administrative dashboards.
+
+---
+
+## 🌱 Currently Working On
+
+- Improving backend architecture with NestJS
+- Learning scalable system design and cloud infrastructure
+- Building portfolio-quality full-stack applications
+
+---
+
+## 🛠️ Languages and Tools
+
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="36" height="36"/></a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="36" height="36"/></a>
@@ -57,7 +76,18 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="36" height="36"/></a>
 </p>
 
-<h3 align="center">GitHub Stats</h3>
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dimasfr&theme=default" alt="dimasfr's streak stats" />
 </p>
+
+---
+
+## 🤝 Let's Connect
+
+- 🌐 Portfolio: [dimasfr.github.io](https://dimasfr.github.io)
+- 💼 LinkedIn: [linkedin.com/in/dimasfr](https://linkedin.com/in/dimasfr)
+- 📫 Email: [dimasfr918@gmail.com](mailto:dimasfr918@gmail.com)
+
+Thanks for visiting my profile!
