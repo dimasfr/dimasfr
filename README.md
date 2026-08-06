@@ -38,7 +38,7 @@ A full-stack e-commerce application built with NestJS, Nuxt, and MySQL, integrat
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,babel,bootstrap,css,docker,express,figma,git,html,js,laravel,mongodb,mysql,nestjs,nextjs,nginx,nodejs,nuxtjs,ps,php,postgres,postman,py,react,redis,redux,sass,tailwind,tensorflow,ts,unity,vue,webpack" alt="dimasfr's skills" />
+  <img src="https://skillicons.dev/icons?i=arduino,babel,bootstrap,cloudflare,css,docker,express,figma,git,github,gitlab,html,js,laravel,mongodb,mysql,nestjs,nextjs,nginx,nodejs,nuxtjs,pinia,ps,php,postgres,postman,py,react,redis,redux,sass,tailwind,tensorflow,ts,unity,vue,webpack" alt="dimasfr's skills" />
 </p>
 
 ## 📈 GitHub Stats
