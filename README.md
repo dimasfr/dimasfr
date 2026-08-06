@@ -59,12 +59,5 @@
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimasfr&show_icons=true&theme=default&count_private=true" alt="dimasfr's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasfr&layout=compact&theme=default" alt="dimasfr's top languages" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasfr&theme=default" alt="dimasfr's streak stats" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dimasfr&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" alt="dimasfr's GitHub trophies" />
+  <img src="https://streak-stats.demolab.com/?user=dimasfr&theme=default" alt="dimasfr's streak stats" />
 </p>
