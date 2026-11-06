@@ -17,9 +17,13 @@
 
 ## 🚀 Featured Projects
 
-### 🎲 D&D Virtual Tabletop
+### 🎲 [KomoDice](https://komodice.com) — D&D Virtual Tabletop
 
-A modern browser-based virtual tabletop for Dungeons & Dragons, featuring campaign management, interactive battle maps, character sheets, dice rolling, and real-time multiplayer support.
+A modern browser-based virtual tabletop for Dungeons & Dragons 5e, available in English and Bahasa Indonesia. It features campaign management, interactive battle maps (2D and isometric), character sheets with a step-by-step builder, dice rolling, a Theater of the Mind mode for sessions without a map, a phone controller for players, a scene planning board for the DM, and real-time multiplayer support.
+
+Built with Nuxt, NestJS, PostgreSQL, Socket.IO, and PixiJS.
+
+🔗 **Live:** [komodice.com](https://komodice.com)
 
 ### 🛒 E-Commerce Platform
 
@@ -29,6 +33,7 @@ A full-stack e-commerce application built with NestJS, Nuxt, and MySQL, integrat
 
 ## 🌱 Currently Working On
 
+- Growing [KomoDice](https://komodice.com), my D&D virtual tabletop
 - Improving backend architecture with NestJS
 - Learning scalable system design and cloud infrastructure
 - Building portfolio-quality full-stack applications
